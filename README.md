@@ -9,6 +9,8 @@
 ## 1. Executive Summary (BLUF)
 Since early 2025, the North Korean state-sponsored actor **Lazarus Group (APT38)** has evolved its "Operation DreamJob" campaign to target European defense contractors and global financial entities. The primary attack vector involves highly tailored social engineering on LinkedIn and Telegram. Using the **"ClickFake"** technique, attackers trick victims into installing trojanized tools or "camera drivers" during fake job interviews. Successful compromise leads to the deployment of the **ScoringMathTea** RAT or the **GolangGhost** backdoor, facilitating full system control and intellectual property theft.
 
+"The analyst assesses with High Confidence that this activity is attributed to the Lazarus Group (APT38) based on technical overlaps with the ScoringMathTea malware family."
+
 ---
 
 ## 2. Threat Actor Analysis
