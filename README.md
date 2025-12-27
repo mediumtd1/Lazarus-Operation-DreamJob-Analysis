@@ -63,12 +63,3 @@ rule Lazarus_2025_DreamJob_Loader {
         $magic at 0 and any of ($s*)
 }
 
-
-
----
-## 6. Analyst Certification
-*This research was conducted as part of the advanced threat analysis curriculum for the following certifications:*
-
-![arcX Threat Intel Analyst](./certificates.png)
-
-![Introduction to Network Analysis](./certificate.jpg)
